@@ -18,15 +18,9 @@ and run `Lab1.mainApp1`.
 The repository records separate changes for the initial project, two report
 headings, the input-value report, and project documentation/build output.
 
-## Required IntelliJ screenshot
+## IntelliJ project and Git history
 
-Pending: add a genuine screenshot showing the expanded `.idea` and `src`
-folders, the `myLibrary.java` or `mainApp1.java` editor, and Git Log with at
-least four commits. Place the image at the repository root as
-`lab1-intellij.png` and embed it here using:
+The screenshot below shows the expanded `.idea` and `src` folders,
+`mainApp1.java` in the editor, and the Git Log with five commits.
 
-```markdown
 ![IntelliJ project and Git history](../../../../lab1-intellij.png)
-```
-
-This screenshot requirement has not yet been completed.
